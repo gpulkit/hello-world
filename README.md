@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-It's an Hello World repository!
+It's a Hello World repository!
